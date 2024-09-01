@@ -65,4 +65,7 @@ Ensino de Matemática - Geometria Plana Básica
 
 Para mais detalhes sobre o funcionamento do arquivos e como utilizá-lo, consulte os próprios códigos fonte que possuem comentários e estão disponíveis neste repositório.
 
-**Incluir exemplo explicado de depuração dos códigos na BitDogLab com imagens da matriz RGB com algum átomo e do display oled exibindo uma poligono e sua área calculada**
+## Incluir exemplo explicado de depuração dos códigos na BitDogLab com imagens da matriz RGB com algum átomo e do display oled exibindo um poligono e sua área calculada
+
+![bitdoglab_rasc](https://github.com/user-attachments/assets/87e243be-132e-419a-8980-68e973c2fa03)
+
