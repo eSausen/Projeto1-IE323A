@@ -352,8 +352,8 @@ def case16():
 
 def case17():
     oled.text("Atomo de  ", 24, 12)
-    oled.text("Carbono ", 24, 24)
-    oled.text("Oxigenio:O", 24, 36)
+    oled.text("Oxigenio ", 24, 24)
+    oled.text("Simbolo:O", 24, 36)
     oled.show()
     oled.fill(0)
 
