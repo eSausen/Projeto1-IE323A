@@ -3,6 +3,7 @@
 ## Autores
 
 Eduardo Matheo Sausen - 289674
+
 Victor Anthony Teixeira dos Santos - 206467
 
 ## Introdução
