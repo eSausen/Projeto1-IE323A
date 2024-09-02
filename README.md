@@ -14,8 +14,7 @@
 
 5. **Apoio ao Ensino Cooperativo:** Promover colaboração entre estudantes e professores, facilitando o aprendizado coletivo.
 
-   Este projeto está alinhado com as habilidades específicas da BNCC, como (EF07MA31) Estabelecer expressões de cálculo de área de triângulos e de quadriláteros, (EF08MA19) Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área (quadriláteros, triângulos e círculos), em situações como determinar medida de terrenos e (EF09CI03) Identificar modelos que descrevem a estrutura da matéria (constituição do átomo e composição de moléculas simples) e reconhecer sua evolução histórica.
-
+   Este projeto está alinhado com as habilidades específicas da BNCC, como (EF07MA31) Estabelecer expressões de cálculo de área de triângulos e de quadriláteros, (EF08MA19) Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área (quadriláteros, triângulos e círculos), em situações como determinar medida de terrenos e (EF09CI03) Identificar modelos que descrevem a estrutura da matéria (constituição do átomo e composição de moléculas simples) e reconhecer sua evolução histórica.
 
 ## Teoria e Aplicação no Ensino de Química e Matemática
 
@@ -35,8 +34,8 @@ Ensino de Matemática - Geometria Plana Básica
 
   O sistema embarcado utiliza o Display OLED para desenhar e interagir com figuras geométricas planas, como quadrados, retângulos, triângulos e círculos, aplicando fórmulas para cálculo de áreas.
 
-    Quadrado: Representa todos os lados iguais, aplicando a fórmula Área = $L^2$. Onde "L" representa o Lado do quadrado
-    Retângulo: Calcula a área como Área = $b x h$. Sendo "b" equivalente a base e "h" a altura do retângulo
+    Quadrado: Representa todos os lados iguais, aplicando a fórmula Área = L x L. Onde "L" representa o Lado do quadrado.
+    Retângulo: Calcula a área como Área = b x h. Sendo "b" equivalente a base e "h" a altura do retângulo.
 
   Os alunos podem exercitar os calculos de geometria das figuras, com exemplos pré-carregados na memória do raspberry pi pico embarcado na BitDogLab, usando diretamente no display, o que facilita a compreensão prática dos conceitos matemáticos.
 
@@ -66,7 +65,25 @@ Ensino de Matemática - Geometria Plana Básica
 
 Para mais detalhes sobre o funcionamento do arquivos e como utilizá-lo, consulte os próprios códigos fonte que possuem comentários e estão disponíveis neste repositório.
 
-## Incluir exemplo explicado de depuração dos códigos na BitDogLab com imagens da matriz RGB com algum átomo e do display oled exibindo um poligono e sua área calculada
+## Getting Started com a BitDogLab
 
+A BitDogLab possui um repositório próprio que pode ser encontrado no link:https://github.com/BitDogLab/BitDogLab/tree/main
+
+A imagem a seguir é uma representação do sistema embarcado da BitDog identificando os recursos de hardware utilizados para interagir com a software. Assim, tem-se a matriz de leds, o display oled e os dois botões.Os botões estão identificados como "A" e "B" e tem função de decremento e incremento para facilitar a navegação do usuário no menu interativo do display OLED.
 ![bitdoglab_rasc](https://github.com/user-attachments/assets/87e243be-132e-419a-8980-68e973c2fa03)
+
+Para uma primeira experiência com as atividade da regra do octeto e de geometria plana siga os passos a seguir:
+
+1. Energizar a placa da BitDog - Plugue o cabo USB no computador ou utilize uma bateria adequada.
+2. Aguarde enquanto a BitDog realiza o seu proceso de inicialização automático.
+3. Siga as instruções apresentadas no display OLED
+4. Use o botão "B" para avançar nas etapas do menu do Display OLED e use o Botão "A" para voltar a etapa anterior do menu do display OLED.
+
+Conforme você avança nas etapas do menu, novos exercícios são apresentados. 
+A primeira matéria estudada é a regra do octeto. A imagem a seguir apresenta um frame da disposição atômica dos elétrons na camada de valência para o elemento Oxigênio. Perceba que os elétrons interagem na camada de valência se movimentando na eletrosfera.
+![bitdog-ex-oxigenio](https://github.com/user-attachments/assets/5ee65467-9f25-485b-847f-bb18bb269952)
+
+Após finalizar as atividades de química, você poderá seguir os estudos em matemática com os exemplos de geometria plana.
+A imagem abaixo demonstra o exercicio de cálculo da área do quadrado.
+![bitdog-ex-quadrado](https://github.com/user-attachments/assets/2af120af-1ffc-424b-9273-4a8cdcc22731)
 
