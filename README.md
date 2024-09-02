@@ -1,5 +1,10 @@
 # Projeto 1 - Explorando a Química e a Matemática com a BitDogLab - IE323A
 
+## Autores
+
+Eduardo Matheo Sausen - 289674
+Victor Anthony Teixeira dos Santos - 206467
+
 ## Introdução
   Este projeto desenvolve um sistema embarcado educativo que utiliza um Display OLED e uma Matriz RGB da BitDogLab para facilitar o ensino de matemática e química. O Display OLED exibe formas geométricas e fórmulas matemáticas, enquanto a Matriz RGB simula átomos e o compartilhamento de elétrons. A interface é interativa, permitindo a navegação entre tópicos através de botões, proporcionando uma experiência de aprendizado dinâmica e personalizada.
 
