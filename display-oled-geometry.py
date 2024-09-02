@@ -364,3 +364,22 @@ def switch_case_dicionario (value):# Essa função define quais as funções que
         27: case27
         
         }
+    
+    return cases.get(value, case0)() # essa função é utilizada para procurar as cases na #função acima
+    
+
+count = 0 # define variável count
+
+while(True): # inicia um loop --> controlar o botão 
+    if button_a.value() == 0:
+        count = count -1
+        if count < 0:
+            count = 0
+        
+    if button_b.value() == 0:
+        count = count + 1
+        if count > 27:
+            count = 27
+
+    switch_case_dicionario(count) # chama a função switch_case com o valor atual de #count
+    time.sleep_ms(140) #delay 
