@@ -14,7 +14,8 @@
 
 5. **Apoio ao Ensino Cooperativo:** Promover colaboração entre estudantes e professores, facilitando o aprendizado coletivo.
 
-   Este projeto está alinhado com as habilidades específicas da BNCC, como a análise crítica de programas (EF07CO02) e a construção de soluções computacionais em diferentes áreas do conhecimento (EF07CO03). Mesmo que o foco não seja a programação direta pelos alunos, o sistema embarcado desenvolvido oferece uma oportunidade prática para exercitar essas habilidades através da interação com as representações visuais presentes no projeto.
+   Este projeto está alinhado com as habilidades específicas da BNCC, como (EF07MA31) Estabelecer expressões de cálculo de área de triângulos e de quadriláteros, (EF08MA19) Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área (quadriláteros, triângulos e círculos), em situações como determinar medida de terrenos e (EF09CI03) Identificar modelos que descrevem a estrutura da matéria (constituição do átomo e composição de moléculas simples) e reconhecer sua evolução histórica.
+
 
 ## Teoria e Aplicação no Ensino de Química e Matemática
 
