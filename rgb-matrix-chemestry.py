@@ -216,7 +216,7 @@ led_matrix(all_off) # função chamada para começar com a matriz apagada
 # comando oled.fill é para apagar o oled depois
 
 def case0():  
-    oled.text("Pressione a  ", 12, 12)
+    oled.text("Pressione A  ", 12, 12)
     oled.text("para ", 40, 24)
     oled.text("voltar", 36, 36)
     oled.show()
@@ -225,7 +225,7 @@ def case0():
 def case1():
     oled.text("Projeto 1 - ", 12, 12)
     oled.text("BitDogLab", 24, 24)
-    oled.text("Parte 2", 36, 36)
+    oled.text("Quimica", 36, 36)
     oled.show()
     oled.fill(0)
 
